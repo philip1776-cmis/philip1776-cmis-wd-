@@ -1,11 +1,15 @@
 1. Enter class 
-2. git clone 
-3. Create text file "file.txt" getdit<file name>   
-4. Edit the text file "file.txt" 
-5. save "file.txt" 
-6. git add <file.text> 
-7. Type git commit-m "edited my text file "file.txt in my repository" 
-8. git push <git push> 
-9. Enter username and passwrod for github 
-10. Check if you have the file in repository folder on github
-11. Leave class 
+2. git clone your repository folder 
+git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+3.Change directory folder to repository folder 
+4. ls
+5. cd <repository folder> 
+6. Create text file "file.txt" getdit<file name>   
+7. Edit the text file "file.txt" 
+8. save "file.txt" in gedit 
+9. git add <file.text> 
+10. Type git commit-m "edited my text file "file.txt in my repository" 
+11. git push <git push> 
+12. Enter username and passwrod for github 
+13. Check if you have the file in repository folder on github
+14. Leave class 
