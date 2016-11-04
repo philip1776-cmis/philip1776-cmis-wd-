@@ -1,0 +1,11 @@
+1. Enter class 
+2. git clone 
+3. Create text file "file.txt" getdit<file name>   
+4. Edit the text file "file.txt" 
+5. save "file.txt" 
+6. git add <file.text> 
+7. Type git commit-m "edited my text file "file.txt in my repository" 
+8. git push <git push> 
+9. Enter username and passwrod for github 
+10. Check if you have the file in repository folder on github
+11. Leave class 
