@@ -7,7 +7,8 @@ gedit <file name>
 
 Git commands
 git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
+python -m SimpleHTTPServer 
 git add <file name>
 git commit -m "Commit Comment"
-git push
- 
+git push 
+sftp command - 1) sftp philip1776@cmis-hsteacher 2) ls 3) cd public 4) put <file name> 5) http://cmis-hsteacher/~philip1776/LICENSE 
