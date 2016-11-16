@@ -1,9 +1,25 @@
-html { 
-	font-family:arial;
-	color:white; 
-	font-size: 30px; 
-	background-color:gray;  
+html {
+	background-color:gray;
+}
+h1 { 
+	font-family:Arial; 
+	color:black; 
+	font-size: 35px; 
+	text-align:center;
+	font-weight:bold; 
+	font-variant:small-caps;    	     
 } 
-p{
-	background color
+nav {
+	font-size:30px;
+	text-align:center;
+	font-family:;
+	font-variant:small-caps;  
+}
+p {
+	background-color:white;
+	color:39363;
+	font-family:monospace;
+	font-style:oblique;
+	font-weight:normal; 
+} 
 	
