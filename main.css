@@ -2,24 +2,26 @@ html {
 	background-color:gray;
 }
 h1 { 
-	font-family:Arial; 
 	color:black; 
-	font-size: 35px; 
-	text-align:center;
-	font-weight:bold; 
-	font-variant:small-caps;    	     
+	font-size:50px; 
+	text-align:center; 
+	font-variant:small-caps;
+	letter-spacing:-1px;
+	text-decoration:underline;
+	text-shadow:1px 1px white;      	     
 } 
 nav {
 	font-size:30px;
 	text-align:center;
-	font-family:;
-	font-variant:small-caps;  
+	font-variant:small-caps;
+	text-shadow:1px 1px white;  
 }
 p {
-	background-color:white;
 	color:39363;
-	font-family:monospace;
-	font-style:oblique;
-	font-weight:normal; 
-} 
-	
+	font: italic bold 20px Georgia;
+	font-variant:small-caps;  	
+}
+body {
+    background-image: ("paper.gif");
+    background-color:;
+}
