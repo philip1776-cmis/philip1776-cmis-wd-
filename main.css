@@ -1,5 +1,5 @@
 html {
-	background-color:gray;
+	background-color:gray; 
 }
 h1 { 
 	color:black; 
@@ -8,20 +8,19 @@ h1 {
 	font-variant:small-caps;
 	letter-spacing:-1px;
 	text-decoration:underline;
-	text-shadow:1px 1px white;      	     
+	text-shadow:1px 1px white;     	     
 } 
 nav {
 	font-size:30px;
 	text-align:center;
 	font-variant:small-caps;
-	text-shadow:1px 1px white;  
+	text-shadow:1px 1px white; 
+	border:1px solid white;
 }
 p {
 	color:39363;
 	font: italic bold 20px Georgia;
-	font-variant:small-caps;  	
+	font-variant:small-caps; 
+	border:1px solid white;  	
 }
-body {
-    background-image: ("paper.gif");
-    background-color:;
-}
+
