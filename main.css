@@ -1,6 +1,6 @@
 html {
-	background-color:gray; 
-}
+	background-image:url("http://wallpapercave.com/wp/Pr9hNhy.jpg"); 	  
+} 
 h1 { 
 	color:black; 
 	font-size:50px; 
@@ -15,12 +15,12 @@ nav {
 	text-align:center;
 	font-variant:small-caps;
 	text-shadow:1px 1px white; 
-	border:1px solid white;
+	text-decoration:underline; 
 }
 p {
-	color:39363;
+	color:white;
 	font: italic bold 20px Georgia;
 	font-variant:small-caps; 
 	border:1px solid white;  	
-}
+} 
 
