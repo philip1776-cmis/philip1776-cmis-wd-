@@ -1,3 +1,44 @@
+/*
+background-image
+color 
+font-size
+text-align 
+font-variant 
+border-radius
+letter-spacing 
+text-decoration 
+text-shadow 
+border 
+margin-right 
+margin-left
+background-color
+background-size 
+padding-top 
+height
+text-transform   
+Requirements
+
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server.
+
+-Border style with Michael 
+-
+*/
 html {
 	background-image:url("http://wallpapercave.com/wp/Pr9hNhy.jpg"); 	  
 } 
@@ -8,19 +49,49 @@ h1 {
 	font-variant:small-caps;
 	letter-spacing:-1px;
 	text-decoration:underline;
-	text-shadow:1px 1px white;     	     
+	text-shadow:1px 1px white; 
+	border:1px solid white;
+	margin-right: 10cm;
+	margin-left: 10cm; 
+	background-color:gray;  
+	padding-top:5px;    	     
 } 
 nav {
-	font-size:30px;
+	font-size:40px;
 	text-align:center;
 	font-variant:small-caps;
 	text-shadow:1px 1px white; 
 	text-decoration:underline; 
+	background-color:gray; 
+	margin-right: 18cm;
+	margin-left: 18cm;
+	border:1px solid white;      	     	
+}
+h2 {
+	color:black;
+	font-variant:small-caps; 
+	font-size:25px; 
+	text-align: center; 
+	text-shadow:1px 1px white;
+	background-color:gray;
+	margin-right: 18cm;
+	margin-left: 18cm;  
+	border:1px solid white;    	      
 }
 p {
 	color:white;
 	font: italic bold 20px Georgia;
 	font-variant:small-caps; 
-	border:1px solid white;  	
+	border:1px solid white;
+	background-color:gray; 
+	margin-right: 18cm; 
 } 
+footer { 
+	color:white; 
+	border:1px solid white; 
+	margin-right: 34cm;
+	background-color:gray;
+	height:20px; 
+} 
+	
 
