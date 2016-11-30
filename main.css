@@ -15,7 +15,8 @@ background-color
 background-size 
 padding-top 
 height
-text-transform   
+text-transform
+   
 Requirements
 
 *Create a new file called "main.css"
@@ -36,8 +37,8 @@ Requirements
 Upload to the production server with sftp.
 View your index.html in the production server.
 
--Border style with Michael 
--
+-Learned to edit Border style 
+-Used Padding top 
 */
 html {
 	background-image:url("http://wallpapercave.com/wp/Pr9hNhy.jpg"); 	  
