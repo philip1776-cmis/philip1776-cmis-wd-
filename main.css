@@ -52,21 +52,19 @@ h1 {
 	text-decoration:underline;
 	text-shadow:1px 1px white; 
 	border:1px solid white;
-	margin-right: 10cm;
-	margin-left: 10cm; 
+	margin-right:10cm;
+	margin-left:10cm; 
 	background-color:gray;  
 	padding-top:5px;    	     
 } 
 nav {
-	font-size:40px;
+	font-size:25px;
 	text-align:center;
 	font-variant:small-caps;
 	text-shadow:1px 1px white; 
-	text-decoration:underline; 
-	background-color:gray; 
+	text-decoration:underline;  
 	margin-right: 18cm;
-	margin-left: 18cm;
-	border:1px solid white;      	     	
+	margin-left: 18cm;      	     	
 }
 h2 {
 	color:black;
