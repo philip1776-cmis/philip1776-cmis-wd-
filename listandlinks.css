@@ -3,16 +3,47 @@ html {
 	background-image:url("http://wallpapercave.com/wp/Pr9hNhy.jpg");
 } 
 h1 {
-	color:black;
 	font-variant:small-caps;
 	font-size:50px; 
 	background:gray; 
-	margin-right:30cm; 
+	margin-right:33cm; 
+	text-shadow:1px 1px blue;
+	text-decoration:underline; 
+	padding-left:10px;
+	border:1px solid white;
+	width: 350px;
+	color:white; 
 } 
 nav {
 	font: italic 15px Georgia; 
 	color:white;
+	text-decoration:underline;
+	
 } 
-h1,h2 {
+main h2 {
+	color:white;
+	font-variant:small-caps;
+	font-size:30px;
+	text-decoration:underline; 
+} 
+ol,ul {
+	color:white;
+	text-shadow:1px 1px black;
+	background:gray;
+	width: 350px;
+	font-size:20px; 
+	font-variant:small-caps; 
+	border:1px solid white; 
+} 
+footer {
+	color:white;
+	font: italic 17px serif;
+	height:1cm;   
+}
+head,body {
+	background-color:black;
+}
+	
+	
 	
 
