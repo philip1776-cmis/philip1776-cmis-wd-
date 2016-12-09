@@ -92,7 +92,20 @@ footer {
 	background-color:gray;
 	height:20px; 
 } 
+ol,ul {
+	color:white;
+	text-shadow:1px 1px black;
+	background:gray;
+	width: 350px;
+	font-size:20px; 
+	font-variant:small-caps; 
+	border:1px solid white; 
+	margin-right:1cm; 
+}
 h3 {
+	color:white;
+} 
+main p {
 	color:white;
 } 
 
