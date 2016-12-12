@@ -27,25 +27,52 @@ article {
 	font-family:sans-serif;
 	background-color:black;
 } 
-h3 {
+h3,h4 {
 	color:white;
 	font-family:sans-serif;
 } 
-p,p2 {
+ul {
 	color:white;
 	font-family:sans-serif; 
 	margin-top:-2px; 
 	font-weight: bold; 
 	letter-spacing:2px;
-	margin-bottom: -2px;
+	margin-bottom:-0.5cm;
 }  
 h {
 	text-align:center; 
 	color:white; 
-	margin-left:17cm;
+	margin-left:15.5cm;
 	font-family:sans-serif; 
 	font-size:30px; 
 	font-weight: bold;  
 } 
-
-
+p {
+	font-family:sans-serif;
+	font-size:20px;
+	color:white; 
+	font-weight: bold; 
+} 
+p2 {
+	font-size:30px;
+	font-family:sans-serif;
+	color:white; 
+	font-weight: bold; 
+} 
+footer {
+	color:white;
+	font-family:sans-serif italic;
+	padding-top:2cm; 
+} 
+h5 {
+	color:white;
+	font-size:100px;
+	font-family:sans-serif;
+	letter-spacing:1px; 
+	margin-top:-20cm;
+	letter-spacing:-3px;  
+	padding-bottom:6cm;
+} 	
+nav {
+	padding-bottom:1cm;
+} 
