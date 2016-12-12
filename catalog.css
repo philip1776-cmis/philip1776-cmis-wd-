@@ -5,15 +5,47 @@ h2 {
 	text-align:center;
 	color:white;
 	margin-top:-4cm;
-	font-family:"Arial Black" sans-serif; 
-	font-size:;
+	font-family:sans-serif; 
+	margin-left:6cm;
+	font-size:23px;  
 }
 h1 {
 	margin-top:-2cm;
 } 
 header {
 	color:white;
-	font-size:49px;
+	font-size:52px;
+	font-family:sans-serif;
+	letter-spacing:-3px;  
+} 
+article {
+	border-color:white;
+	border-style: solid; 
+	margin-left:12cm; 
+	margin-right:9.18cm;
+	color:white; 
+	font-family:sans-serif;
+	background-color:black;
+} 
+h3 {
+	color:white;
 	font-family:sans-serif;
 } 
+p,p2 {
+	color:white;
+	font-family:sans-serif; 
+	margin-top:-2px; 
+	font-weight: bold; 
+	letter-spacing:2px;
+	margin-bottom: -2px;
+}  
+h {
+	text-align:center; 
+	color:white; 
+	margin-left:17cm;
+	font-family:sans-serif; 
+	font-size:30px; 
+	font-weight: bold;  
+} 
+
 
