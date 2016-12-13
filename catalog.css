@@ -4,9 +4,8 @@ html {
 h2 {
 	text-align:center;
 	color:white;
-	margin-top:-4cm;
+	margin-top:-5cm;
 	font-family:sans-serif; 
-	margin-left:6cm;
 	font-size:23px;  
 }
 h1 {
@@ -22,10 +21,10 @@ article {
 	border-color:white;
 	border-style: solid; 
 	margin-left:12cm; 
-	margin-right:9.18cm;
+	margin-right:15.3cm;
 	color:white; 
 	font-family:sans-serif;
-	background-color:black;
+	background-color:black; 
 } 
 h3,h4 {
 	color:white;
@@ -53,7 +52,7 @@ p {
 	color:white; 
 	font-weight: bold; 
 } 
-p2 {
+p1 {
 	font-size:30px;
 	font-family:sans-serif;
 	color:white; 
@@ -72,7 +71,12 @@ h5 {
 	margin-top:-20cm;
 	letter-spacing:-3px;  
 	padding-bottom:6cm;
+	font-weight: bold; 
 } 	
-nav {
-	padding-bottom:1cm;
+main nav {
+	padding-top:1cm;
 } 
+ main {
+	color:white;
+} 
+
